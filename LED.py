@@ -8,3 +8,6 @@
  time.sleep(1)
  print "LED off"
  GPIO.output(18,GPIO.LOW)
+#writer: Zhou Yuwei
+#date: 2/4/2025
+#a code can make LED light

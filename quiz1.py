@@ -26,3 +26,6 @@ print("\n quiz completed")
 print("you got {score}/{len(quesitons)} questions correct")
 
 quiz()
+#authur: Zhou Yuwei
+#Date:7/4/2025
+#description: this is a quiz program
